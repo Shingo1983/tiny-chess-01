@@ -4,6 +4,7 @@ Entry for the make.fun bounty [Build the strongest chess engine in 4 KB of Pytho
 
 ![make.fun competition badge](https://make.fun/badge/tiny-chess-01.svg)
 ![live rank badge](https://make.fun/badge/tiny-chess-01/Shingo1983/rank.svg)
+![live rank badge](https://make.fun/badge/tiny-chess-01/Shingo1983/tiny-chess-01/rank.svg)
 ![live reward badge](https://make.fun/badge/tiny-chess-01/Shingo1983/tiny-chess-01/reward.svg)
 
 `main.py` is a chess engine in 4,079 bytes of Python, speaking the bounty's
